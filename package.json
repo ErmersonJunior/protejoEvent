@@ -1,0 +1,10 @@
+{"name": "protejoEvent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ErmersonJunior/protejoEvent.git",
+  "author": "crfluiz <lcmartinscjr@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
